@@ -1,0 +1,19 @@
+{
+  "name": "@arkhotech/aws-pipeline-callback",
+  "version": "1.0.2",
+  "description": "Callbacks para AWS pipeline",
+  "main": "codepipeline_callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "callback",
+    "codepipeline",
+    "aws"
+  ],
+  "author": "Marcelo Silva",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.420.0"
+  }
+}
